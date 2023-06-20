@@ -1,6 +1,6 @@
 # debug
 
-![Go](https://badgen.net/badge/Go/%3E=1.16/orange)
+![Go](https://badgen.net/badge/Go/%3E=1.17/orange)
 [![Go Version](https://badgen.net/github/release/go-packagist/debug/stable)](https://github.com/go-packagist/debug/releases)
 [![GoDoc](https://pkg.go.dev/badge/github.com/go-packagist/debug)](https://pkg.go.dev/github.com/go-packagist/debug)
 [![codecov](https://codecov.io/gh/go-packagist/debug/branch/master/graph/badge.svg?token=5TWGQ9DIRU)](https://codecov.io/gh/go-packagist/debug)
